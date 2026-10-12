@@ -1,0 +1,6 @@
+
+gradio
+flask
+joblib
+scikit-learn
+numpy
